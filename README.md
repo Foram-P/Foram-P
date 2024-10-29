@@ -2,7 +2,7 @@
 - 👀 BI and Data Analytics Enthusiast.
 - 🌱 I’m currently learning Power BI, Python, SQL, Excel
 - 📫 reach me https://www.linkedin.com/in/f02pandya/
-- # f02pandya@gmail.com 
+  
 
 <!---
 Foram-P/Foram-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
